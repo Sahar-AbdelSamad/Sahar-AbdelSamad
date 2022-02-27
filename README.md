@@ -138,9 +138,9 @@
 
 
 <h2>Stats:<h2>
-<img style="margin-left: 70px"
+<img
 src="https://github-readme-stats.vercel.app/api?username=Sahar-AbdelSamad&show_icons=true&theme=dark&&hide_border=true"
 />
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-AbdelSamad&layout=compact&langs_count=7&theme=dark&&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-AbdelSamad&layout=compact&langs_count=7&theme=dark&&hide_border=true&card_width=445px"
 />
