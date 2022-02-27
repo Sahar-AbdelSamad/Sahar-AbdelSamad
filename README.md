@@ -1,15 +1,15 @@
 <h1 align="center">Hello I'm Sahar Abdel Samad 😃</h1>
-<h2 align="center">
-    A Full Stack Developer who
+<h3 align="center">
+  A Full Stack Developer who
     loves to work with JavaScript technologies.
-    <h3 align="center">
-    If you can't find me, I would most probably be building a project, reading a book, or listening to an audiobook.
-    </h3>
-</h2>
+</h3>
+<h3 align="center">
+  If you can't find me, I would most probably be building a project, reading a book, or listening to an audiobook.
+</h3>
 <br>
 
-<h2><b><u>Skills:</u></b></h2>
-<table style="margin-left: 60px">
+<h2>Skills:</h2>
+<table>
   <tr>
     <td align="center" height="130" width="130">
       <img
@@ -125,8 +125,8 @@
 </table>
 <br>
 
+<h2>Contact me:</h2>
 <p>
-<span style="font-size: 20px"><b><u>Contact me:</u></b></span>
   <a style="margin-left: 20px" target="_blank"
     href="https://www.linkedin.com/in/sahar-abdel-samad/"><img
     src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
@@ -136,12 +136,11 @@
 </p>
 <br>
 
-<p>
-  <h2><b><u>Stats:</u></b><h2>
-  <img style="margin-left: 70px"
-  src="https://github-readme-stats.vercel.app/api?username=Sahar-AbdelSamad&show_icons=true&theme=dark&&hide_border=true"
-  />
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-AbdelSamad&layout=compact&langs_count=7&theme=dark&&hide_border=true"
-  />
-</p>
+
+<h2>Stats:<h2>
+<img style="margin-left: 70px"
+src="https://github-readme-stats.vercel.app/api?username=Sahar-AbdelSamad&show_icons=true&theme=dark&&hide_border=true"
+/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-AbdelSamad&layout=compact&langs_count=7&theme=dark&&hide_border=true"
+/>
