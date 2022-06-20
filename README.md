@@ -69,12 +69,12 @@
     <tr>
     <td align="center" height="130" width="130">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="45"
         height="45"
-        alt="Bootstrap"
+        alt="Tailwindcss"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Tailwindcss</strong>
     </td>
     <td align="center" height="130" width="130">
       <img
