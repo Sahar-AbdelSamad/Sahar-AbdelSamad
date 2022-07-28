@@ -4,7 +4,7 @@
     loves to work with JavaScript technologies.
 </h3>
 <h3 align="center">
-  If you can't find me, I would most probably be building a project, reading a book, or listening to an audiobook.
+  When I am not coding, you can find me reading a book, or listening to an audiobook.
 </h3>
 <br>
 
