@@ -4,7 +4,7 @@
     loves to work with JavaScript technologies.
 </h3>
 <h3 align="center">
-  When I am not coding, you can find me reading a book, or listening to an audiobook.
+  When I am not coding, you can find me reading a book, or listening to an audiobook. Currently listening to "Think Like a Monk" audiobook by "Jay Shetty".
 </h3>
 <br>
 
