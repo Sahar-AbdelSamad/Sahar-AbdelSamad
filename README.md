@@ -4,7 +4,7 @@
     loves to work with JavaScript technologies.
 </h3>
 <h3 align="center">
-  When I am not coding, you can find me reading a book, or listening to an audiobook. Currently listening to "Deep Work" audiobook by "Cal Newport".
+  When I am not coding, you can find me reading a book, or listening to an audiobook.
 </h3>
 <br>
 
