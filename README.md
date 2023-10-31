@@ -1,6 +1,6 @@
 <h1 align="center">Hello I'm Sahar Abdel Samad 😃</h1>
 <h3 align="center">
-  A Full Stack Developer who
+  A Front-End Web Developer who
     loves to work with JavaScript technologies.
 </h3>
 <h3 align="center">
@@ -87,6 +87,15 @@
     </td>
     <td align="center" height="130" width="130">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="45"
+        height="45"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="130" width="130">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
         width="45"
         height="45"
@@ -112,15 +121,6 @@
       />
       <br /><strong>MySQL</strong>
     </td>
-    <td align="center" height="130" width="130">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="45"
-        height="45"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
   </tr>
 </table>
 <br>
@@ -139,7 +139,7 @@
 
 <h2>Stats:<h2>
 <img
-src="https://github-readme-stats.vercel.app/api?username=Sahar-AbdelSamad&show_icons=true&theme=dark&&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=Sahar-AbdelSamad&show=prs_merged,prs_merged_percentage&hide=commits,contribs&show_icons=true&theme=dark&&hide_border=true"
 />
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-AbdelSamad&layout=compact&langs_count=7&theme=dark&&hide_border=true&card_width=445px"
